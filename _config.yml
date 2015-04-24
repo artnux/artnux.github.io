@@ -60,8 +60,8 @@ members:
       - title: twitter
         url: http://twitter.com/jascoman
   - name: Gabriel Murilo Lanzi
-    position: Cleaner
-    text: i'm a bitch
+    position: Lead Security
+    text: ... 
     img: team02.jpg
     social:
       - title: envelope #use for email address
@@ -70,7 +70,7 @@ members:
         url: http://twitter.com/gl4nz1
   - name: Marcelo Martche
     position: Lead Developer
-    text: i eat bitch
+    text: _
     img: team03.jpg
     social:
       - title: envelope #use for email address
