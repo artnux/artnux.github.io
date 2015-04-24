@@ -55,7 +55,7 @@ members:
     text: /\ 
     img: team01.jpg
     social:
-      - title:abner@artnux.com #use for email address
+      - title: envelope abner@artnux.com #use for email address
         url: artnux.com
       - title: twitter
         url: http://twitter.com/jascoman
