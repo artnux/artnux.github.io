@@ -44,7 +44,7 @@ address:
     - "Usamos algumas startups para locação de salas de reunião em todo o país caso necessário, assim  tornando mais flexível para a equipe técnica e o cliente."
     - " "
     - "email: contato@artnux.com"
-    - "tel: 55 11 985 32 5338 / 55 19 997 93 2525"
+    - "tel: 55 11 985 32 5338 / 55 19 997 93 2525 / 55 11 999 09 6556"
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
@@ -52,31 +52,31 @@ address:
 members:
   - name: Abner Rosa da Trindade 
     position: CEO
-    text: 
+    text: i'm nigga bitch
     img: team01.jpg
     social:
       - title: envelope #use for email address
         url: mailto:abner@artnux.com
       - title: twitter
         url: http://twitter.com/jascoman
-#  - name: Nome 2
-#    position: Lead Designer
-#    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-#    img: team02.jpg
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
-#      - title: twitter
-#        url: http://twitter.com/handle
+  - name: Gabriel Murilo Lanzi
+    position: Cleaner
+    text: i'm a bitch
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:gabriel@artnux.com
+      - title: twitter
+        url: http://twitter.com/gl4nz1
   - name: Marcelo Martche
     position: Lead Developer
-    text: 
+    text: i eat bitch
     img: team03.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:martche@artnux.com
-      - title: twitter
-        url: http://twitter.com/mmartche
+        url: mailto:marcelo@artnux.com
+      - title: linkdein
+        url: https://www.linkedin.com/pub/marcelo-andrade/35/a28/b3b
 #  - name: Nome 4
 #    position: Marketing
 #    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
