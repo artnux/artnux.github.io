@@ -52,7 +52,7 @@ address:
 members:
   - name: Abner Rosa da Trindade 
     position: CEO
-    text: @
+    text: /\ 
     img: team01.jpg
     social:
       - title:abner@artnux.com #use for email address
