@@ -55,8 +55,8 @@ members:
     text: @
     img: team01.jpg
     social:
-      - title: mailto:abner@artnux.com #use for email address
-        url: mailto:abner@artnux.com
+      - title: mailto: abner@artnux.com #use for email address
+        url: mailto: abner@artnux.com
       - title: twitter
         url: http://twitter.com/jascoman
   - name: Gabriel Murilo Lanzi
@@ -65,7 +65,7 @@ members:
     img: team02.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:gabriel@artnux.com
+        url: mailto: gabriel@artnux.com
       - title: twitter
         url: http://twitter.com/gl4nz1
   - name: Marcelo Martche
@@ -74,7 +74,7 @@ members:
     img: team03.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:marcelo@artnux.com
+        url: mailto: marcelo@artnux.com
       - title: linkdein
         url: https://www.linkedin.com/pub/marcelo-andrade/35/a28/b3b
 #  - name: Nome 4
