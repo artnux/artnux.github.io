@@ -56,7 +56,7 @@ members:
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto: abner@artnux.com
+        url: mailto:abner@artnux.com
       - title: twitter
         url: http://twitter.com/jascoman
   - name: Gabriel Murilo Lanzi
