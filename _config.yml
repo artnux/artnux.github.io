@@ -55,12 +55,12 @@ members:
     text: /\ 
     img: team01.jpg
     social:
-      - title: envelope abner@artnux.com #use for email address
-        url: artnux.com
+      - title: envelope #use for email address
+        url: mailto:abner@artnux.com
       - title: twitter
         url: http://twitter.com/jascoman
   - name: Gabriel Murilo Lanzi
-    position: Lead Security
+    position: Security Engineer
     text: ... 
     img: team02.jpg
     social:
@@ -69,7 +69,7 @@ members:
       - title: twitter
         url: http://twitter.com/gl4nz1
   - name: Marcelo Martche
-    position: Lead Developer
+    position: Developer Engineer
     text: _
     img: team03.jpg
     social:
