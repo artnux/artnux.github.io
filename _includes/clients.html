@@ -3,7 +3,7 @@
         <div class="row centered">
             <h3>Nossos parceiros</h3>
 				<div class="row centered">
-					{% for client in site.clients %}
+					{% for client in site.data.clients %}
 						<div class="col-sm-3 col-sm-3 col-sm-3">
 							<img src="{{ "/assets/img/clients/" | prepend: site.baseurl }}{{ client.img }}" class="img-responsive">
 						</div>
