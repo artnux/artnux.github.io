@@ -5,34 +5,28 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 May 2015 17:17:18 -0300</pubDate>
-    <lastBuildDate>Mon, 04 May 2015 17:17:18 -0300</lastBuildDate>
+    <pubDate>Tue, 05 May 2015 02:59:53 -0300</pubDate>
+    <lastBuildDate>Tue, 05 May 2015 02:59:53 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Question: Why did the Chicken cross the road?</title>
-        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/question/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/question/your-project-name</guid>
-        
-        
-        <category>question</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project:  OPENCART</title>
+        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
+&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/opencart</link>
+        <guid isPermaLink="true">http://artnux.com/project/opencart</guid>
+        
+        <category>front-end</category>
+        
+        <category>back-end</category>
+        
+        <category>desenvolvimento web</category>
         
         
         <category>project</category>
@@ -40,16 +34,23 @@
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project:  Open Source</title>
+        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
+&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/open-source</link>
+        <guid isPermaLink="true">http://artnux.com/project/open-source</guid>
+        
+        <category>front-end</category>
+        
+        <category>back-end</category>
+        
+        <category>desenvolvimento web</category>
         
         
         <category>project</category>
@@ -57,16 +58,34 @@
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project: Open BSD</title>
+        <description>&lt;h2 id=&quot;open-bsd&quot;&gt;Open BSD&lt;/h2&gt;
+&lt;p&gt;The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
+
+&lt;h4 id=&quot;why-might-i-want-to-use-openbsd&quot;&gt;Why might I want to use OpenBSD?&lt;/h4&gt;
+&lt;p&gt;New users frequently want to know whether OpenBSD is superior to some other free UNIX-like operating system. That question is largely unanswerable and is the subject of countless (and useless) religious debates. Do not, under any circumstances, ask such a question on an OpenBSD mailing list.&lt;/p&gt;
+
+&lt;p&gt;Below are some reasons why we think OpenBSD is a useful operating system:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OpenBSD runs on many different hardware platforms.&lt;/li&gt;
+  &lt;li&gt;OpenBSD is thought of by many security professionals as the most secure UNIX-like operating system, as the result of a never-ending comprehensive source code security audit.&lt;/li&gt;
+  &lt;li&gt;OpenBSD is a full-featured UNIX-like operating system available in source form at no charge.&lt;/li&gt;
+  &lt;li&gt;OpenBSD integrates cutting-edge security technology suitable for building firewalls and private network services in a distributed environment.&lt;/li&gt;
+  &lt;li&gt;OpenBSD benefits from strong ongoing development in many areas, offering opportunities to work with emerging technologies with an international community of programmers and end-users.&lt;/li&gt;
+  &lt;li&gt;OpenBSD attempts to minimize the need for customization and tweaking. For the vast majority of users, OpenBSD “Just Works” on their hardware for their application. Not only is tweaking and customizing rarely needed, it is actively discouraged.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, whether OpenBSD is right for you is a question that only you can answer.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/open-bsd</link>
+        <guid isPermaLink="true">http://artnux.com/project/open-bsd</guid>
+        
+        <category>back-end</category>
         
         
         <category>project</category>
@@ -74,16 +93,26 @@
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project: NetBSD</title>
+        <description>&lt;h2 id=&quot;netbsd&quot;&gt;NetBSD&lt;/h2&gt;
+&lt;p&gt;The NetBSD Project is an international collaborative effort of a large group of people, to produce a freely available and redistributable UNIX-like operating system, NetBSD. In addition to our own work, NetBSD contains a variety of other free software, including 4.4BSD Lite from the University of California, Berkeley.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;One of the primary focuses of the NetBSD project has been to make the base OS highly portable. This has resulted in NetBSD being ported to a large number of hardware platforms. NetBSD is also interoperable, implementing many standard APIs and network protocols, and emulating many other systems’ ABIs.&lt;/p&gt;
+
+&lt;p&gt;NetBSD is distributed in three forms: formal releases, maintenance branches, and NetBSD-current. Formal releases are done periodically and include well-tested binaries, source code, and installation tools. Maintenance branches usually provide bug and security fixes and minor enhancements. NetBSD-current is a nightly distribution of the latest development sources, meant for people who want the absolute latest software, and don’t mind an occasional bug.&lt;/p&gt;
+
+&lt;p&gt;NetBSD is largely supported by users, via Usenet newsgroups, mailing lists, and direct contributions. If you’re having a problem, it’s likely that someone will have seen it before and will be able to help you.&lt;/p&gt;
+
+&lt;p&gt;The NetBSD(tm) Foundation is a tax exempt, not-for-profit 501(c)(3) corporation, that devotes itself to the traditional goals and Spirit of the NetBSD Project and owns the trademark of the word “NetBSD”.&lt;/p&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/netbsd</link>
+        <guid isPermaLink="true">http://artnux.com/project/netbsd</guid>
+        
+        <category>back-end</category>
         
         
         <category>project</category>
@@ -91,16 +120,23 @@
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project:  lousa</title>
+        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
+&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/lousa</link>
+        <guid isPermaLink="true">http://artnux.com/project/lousa</guid>
+        
+        <category>front-end</category>
+        
+        <category>back-end</category>
+        
+        <category>desenvolvimento web</category>
         
         
         <category>project</category>
@@ -108,16 +144,19 @@
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project: Linux</title>
+        <description>&lt;h2 id=&quot;linux&quot;&gt;Linux&lt;/h2&gt;
+&lt;p&gt;####Helps us solve harder problems…
+Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/linux</link>
+        <guid isPermaLink="true">http://artnux.com/project/linux</guid>
+        
+        <category>back-end</category>
         
         
         <category>project</category>
@@ -125,16 +164,21 @@
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project: Free BSD</title>
+        <description>&lt;h2 id=&quot;free-bsd&quot;&gt;Free BSD&lt;/h2&gt;
+&lt;p&gt;FreeBSD is an operating system for a variety of platforms which focuses on features, speed, and stability. It is derived from BSD, the version of UNIX® developed at the University of California, Berkeley. It is developed and maintained by a large community.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h4 id=&quot;powerful-internet-solutions&quot;&gt;Powerful Internet solutions&lt;/h4&gt;
+&lt;p&gt;FreeBSD makes an ideal Internet or Intranet server. It provides robust network services under the heaviest loads and uses memory efficiently to maintain good response times for thousands of simultaneous user processes.&lt;/p&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/free-bsd</link>
+        <guid isPermaLink="true">http://artnux.com/project/free-bsd</guid>
+        
+        <category>back-end</category>
         
         
         <category>project</category>
@@ -142,16 +186,20 @@
       </item>
     
       <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <title>Project: Cluster</title>
+        <description>&lt;h2 id=&quot;cluster&quot;&gt;CLUSTER&lt;/h2&gt;
+&lt;p&gt;Um cluster, ou agregado de computadores, é formado por um conjunto de computadores, que utiliza um tipo especial de sistema operacional classificado como sistema distribuído. Muitas vezes é construído a partir de computadores convencionais (personal computers), os quais são ligados em rede e comunicam-se através do sistema, trabalhando como se fossem uma única máquina de grande porte. Há diversos tipos de cluster. Um tipo famoso é o cluster da classe Beowulf, constituído por diversos nós escravos gerenciados por um só computador.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://artnux.com/project/your-project-name</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/cluster</link>
+        <guid isPermaLink="true">http://artnux.com/project/cluster</guid>
+        
+        <category>back-end</category>
+        
+        <category>server</category>
         
         
         <category>project</category>
@@ -159,36 +207,50 @@
       </item>
     
       <item>
-        <title>Blog: Time to change your apps</title>
-        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+        <title>Project:  Cloud</title>
+        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
+&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
 
-&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
-
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Apr 2014 13:54:46 -0300</pubDate>
-        <link>http://artnux.com/blog/wordpress/photoshop/time-to-change-your-apps</link>
-        <guid isPermaLink="true">http://artnux.com/blog/wordpress/photoshop/time-to-change-your-apps</guid>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/cloud</link>
+        <guid isPermaLink="true">http://artnux.com/project/cloud</guid>
+        
+        <category>front-end</category>
+        
+        <category>back-end</category>
+        
+        <category>desenvolvimento web</category>
         
         
-        <category>blog</category>
+        <category>project</category>
         
-        <category>wordpress</category>
+      </item>
+    
+      <item>
+        <title>Project:  SEGURANÇA</title>
+        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
+&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/cadeado</link>
+        <guid isPermaLink="true">http://artnux.com/project/cadeado</guid>
         
-        <category>photoshop</category>
+        <category>front-end</category>
+        
+        <category>back-end</category>
+        
+        <category>desenvolvimento web</category>
+        
+        
+        <category>project</category>
         
       </item>
     

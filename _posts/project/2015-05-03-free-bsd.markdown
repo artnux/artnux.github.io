@@ -1,0 +1,27 @@
+---
+layout: project
+title:  "Free BSD"
+date:   2015-05-02 00:00:00
+developer: Abner e Gabriel
+categories:
+- project
+tags:
+- back-end
+thumb: project_free_bsd.jpg
+img: freebsd01.png
+carousel:
+- freebsd01.png
+- freebsd02.jpg
+- freebsd03.jpg
+- freebsd04.png
+client: Corp.
+website: www.freebsd.org
+---
+##Free BSD
+FreeBSD is an operating system for a variety of platforms which focuses on features, speed, and stability. It is derived from BSD, the version of UNIX® developed at the University of California, Berkeley. It is developed and maintained by a large community.
+
+####Powerful Internet solutions
+FreeBSD makes an ideal Internet or Intranet server. It provides robust network services under the heaviest loads and uses memory efficiently to maintain good response times for thousands of simultaneous user processes.
+
+####Nosso Propósito
+Picas da galáxia

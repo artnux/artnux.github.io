@@ -1,0 +1,24 @@
+---
+layout: project
+title:  "Linux"
+date:   2015-05-02 00:00:00
+developer: Marcelo Andrade
+categories:
+- project
+tags:
+- back-end
+thumb: portfolio_08.jpg
+ing: thumb02.jpg
+carousel:
+- linux01.jpg
+- linux02.jpg
+- linux03.jpg
+client: Corp.
+website: 
+---
+##Linux
+####Helps us solve harder problems...
+Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
+
+####Nosso Propósito
+Picas da galáxia

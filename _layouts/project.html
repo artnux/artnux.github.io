@@ -17,16 +17,24 @@ layout: default
         </div>
         <div class="col-lg-4 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Project Details</h4>
+            <h4>Detalhes de Projeto</h4>
             <div class="hline"></div>
-            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Author:</b> {{ page.author }}</p>
-            <p><b>Categories:</b> {{ page.categories }}</p>
-            <p><b>Tagged:</b> Flat, UI, Development</p>
-            <p><b>Client:</b> {{ page.client }}</p>
-            <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>
+            <p><b>Data:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Consultor:</b> <a href="{{ "/about/" | prepend: site.baseurl }}">{{ page.developer }}</a></p>
+            <p><b>Categoria:</b> {{ page.categories }}</p>
+            <p><b>Tags (é foda pra fazer funcionar, mas não impossível):</b> 
+            {% for tag in page.tags %}
+                {{ tag }},
+            {% endfor %}
+            </p>
+            <p><b>Clientes (quero fazer o mesmo que tags):</b> {{ page.client }}</p>
+            <p><b>Referências:</b>
+            {% for url in page.website %}
+             <br /><a target="_blank" href="{{ url }}">{{ url }}</a>
+            {% endfor %}
+            </p>
         </div>
     </div><! --/row -->
 </div><! --/container -->
 	 
-{% include portfolio.html title="Related Works." limit=10 %}
+{% include portfolio.html filter="project" title="Projetos Relacionados" limit=10 %}

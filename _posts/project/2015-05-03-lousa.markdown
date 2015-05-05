@@ -1,0 +1,26 @@
+---
+layout: project
+title:  " lousa"
+date:   2015-05-02 00:00:00
+developer: Marcelo Andrade
+categories:
+- project
+tags:
+- front-end
+- back-end
+- desenvolvimento web
+img: portfolio_07.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+client: Corp.
+website: http://opencart.com.br
+---
+####OPENCART
+OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
+
+####Nosso Propósito
+Picas da galáxia
