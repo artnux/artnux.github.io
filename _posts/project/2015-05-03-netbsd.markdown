@@ -7,7 +7,7 @@ categories:
 - project
 tags:
 - back-end
-thumb: project_net_bsd.jpg
+thumb: project_netbsd.jpg
 img: netbsd01.png
 carousel:
 - netbsd01.png

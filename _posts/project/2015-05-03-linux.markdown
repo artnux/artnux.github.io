@@ -2,21 +2,24 @@
 layout: project
 title:  "Linux"
 date:   2015-05-02 00:00:00
-developer: Marcelo Andrade
+developer: Abner e Gabriel
 categories:
 - project
 tags:
 - back-end
-thumb: portfolio_08.jpg
-ing: thumb02.jpg
+thumb: project_linux.jpg
+img: linux01.jpg
 carousel:
 - linux01.jpg
 - linux02.jpg
-- linux03.jpg
 client: Corp.
 website: 
+- http://debian.org
+- http://ubuntu.org
+- http://www.redhat.com/en
 ---
 ##Linux
+
 ####Helps us solve harder problems...
 Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
 

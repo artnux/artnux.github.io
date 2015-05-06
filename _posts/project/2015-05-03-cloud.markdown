@@ -1,26 +1,24 @@
 ---
 layout: project
-title:  " Cloud"
+title:  "Cloud"
 date:   2015-05-02 00:00:00
-developer: Marcelo Andrade
+developer: Abner e Gabriel
 categories:
 - project
 tags:
-- front-end
 - back-end
-- desenvolvimento web
-img: portfolio_10.jpg
-thumb: thumb02.jpg
+thumb: project_cloud.jpg
+img: cloud01.jpg
 carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
 client: Corp.
-website: http://opencart.com.br
+website: https://en.wikipedia.org/wiki/OpenStack
 ---
 ####OPENCART
-OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
-Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
+Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
+
 
 ####Nosso Propósito
 Picas da galáxia

@@ -5,12 +5,12 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 May 2015 02:59:53 -0300</pubDate>
-    <lastBuildDate>Tue, 05 May 2015 02:59:53 -0300</lastBuildDate>
+    <pubDate>Tue, 05 May 2015 21:49:14 -0300</pubDate>
+    <lastBuildDate>Tue, 05 May 2015 21:49:14 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Project:  OPENCART</title>
+        <title>Project: OPENCART</title>
         <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
 &lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
 Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
@@ -19,14 +19,51 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
 &lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/project/opencart</link>
-        <guid isPermaLink="true">http://artnux.com/project/opencart</guid>
+        <link>http://artnux.com/project/devops/opencart</link>
+        <guid isPermaLink="true">http://artnux.com/project/devops/opencart</guid>
         
         <category>front-end</category>
         
         <category>back-end</category>
         
         <category>desenvolvimento web</category>
+        
+        
+        <category>project</category>
+        
+        <category>devops</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: OpenBSD</title>
+        <description>&lt;h2 id=&quot;open-bsd&quot;&gt;Open BSD&lt;/h2&gt;
+&lt;p&gt;The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.&lt;/p&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Picas da galáxia&lt;/p&gt;
+
+&lt;h4 id=&quot;why-might-i-want-to-use-openbsd&quot;&gt;Why might I want to use OpenBSD?&lt;/h4&gt;
+&lt;p&gt;New users frequently want to know whether OpenBSD is superior to some other free UNIX-like operating system. That question is largely unanswerable and is the subject of countless (and useless) religious debates. Do not, under any circumstances, ask such a question on an OpenBSD mailing list.&lt;/p&gt;
+
+&lt;p&gt;Below are some reasons why we think OpenBSD is a useful operating system:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OpenBSD runs on many different hardware platforms.&lt;/li&gt;
+  &lt;li&gt;OpenBSD is thought of by many security professionals as the most secure UNIX-like operating system, as the result of a never-ending comprehensive source code security audit.&lt;/li&gt;
+  &lt;li&gt;OpenBSD is a full-featured UNIX-like operating system available in source form at no charge.&lt;/li&gt;
+  &lt;li&gt;OpenBSD integrates cutting-edge security technology suitable for building firewalls and private network services in a distributed environment.&lt;/li&gt;
+  &lt;li&gt;OpenBSD benefits from strong ongoing development in many areas, offering opportunities to work with emerging technologies with an international community of programmers and end-users.&lt;/li&gt;
+  &lt;li&gt;OpenBSD attempts to minimize the need for customization and tweaking. For the vast majority of users, OpenBSD “Just Works” on their hardware for their application. Not only is tweaking and customizing rarely needed, it is actively discouraged.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, whether OpenBSD is right for you is a question that only you can answer.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/project/openbsd</link>
+        <guid isPermaLink="true">http://artnux.com/project/openbsd</guid>
+        
+        <category>back-end</category>
         
         
         <category>project</category>
@@ -51,41 +88,6 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
         <category>back-end</category>
         
         <category>desenvolvimento web</category>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Open BSD</title>
-        <description>&lt;h2 id=&quot;open-bsd&quot;&gt;Open BSD&lt;/h2&gt;
-&lt;p&gt;The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.&lt;/p&gt;
-
-&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Picas da galáxia&lt;/p&gt;
-
-&lt;h4 id=&quot;why-might-i-want-to-use-openbsd&quot;&gt;Why might I want to use OpenBSD?&lt;/h4&gt;
-&lt;p&gt;New users frequently want to know whether OpenBSD is superior to some other free UNIX-like operating system. That question is largely unanswerable and is the subject of countless (and useless) religious debates. Do not, under any circumstances, ask such a question on an OpenBSD mailing list.&lt;/p&gt;
-
-&lt;p&gt;Below are some reasons why we think OpenBSD is a useful operating system:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;OpenBSD runs on many different hardware platforms.&lt;/li&gt;
-  &lt;li&gt;OpenBSD is thought of by many security professionals as the most secure UNIX-like operating system, as the result of a never-ending comprehensive source code security audit.&lt;/li&gt;
-  &lt;li&gt;OpenBSD is a full-featured UNIX-like operating system available in source form at no charge.&lt;/li&gt;
-  &lt;li&gt;OpenBSD integrates cutting-edge security technology suitable for building firewalls and private network services in a distributed environment.&lt;/li&gt;
-  &lt;li&gt;OpenBSD benefits from strong ongoing development in many areas, offering opportunities to work with emerging technologies with an international community of programmers and end-users.&lt;/li&gt;
-  &lt;li&gt;OpenBSD attempts to minimize the need for customization and tweaking. For the vast majority of users, OpenBSD “Just Works” on their hardware for their application. Not only is tweaking and customizing rarely needed, it is actively discouraged.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;However, whether OpenBSD is right for you is a question that only you can answer.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/project/open-bsd</link>
-        <guid isPermaLink="true">http://artnux.com/project/open-bsd</guid>
-        
-        <category>back-end</category>
         
         
         <category>project</category>
@@ -146,8 +148,9 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
       <item>
         <title>Project: Linux</title>
         <description>&lt;h2 id=&quot;linux&quot;&gt;Linux&lt;/h2&gt;
-&lt;p&gt;####Helps us solve harder problems…
-Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.&lt;/p&gt;
+
+&lt;h4 id=&quot;helps-us-solve-harder-problems&quot;&gt;Helps us solve harder problems…&lt;/h4&gt;
+&lt;p&gt;Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.&lt;/p&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
 &lt;p&gt;Picas da galáxia&lt;/p&gt;
@@ -164,7 +167,7 @@ Open collaboration and Linux-based tools help developers and companies worldwide
       </item>
     
       <item>
-        <title>Project: Free BSD</title>
+        <title>Project: FreeBSD</title>
         <description>&lt;h2 id=&quot;free-bsd&quot;&gt;Free BSD&lt;/h2&gt;
 &lt;p&gt;FreeBSD is an operating system for a variety of platforms which focuses on features, speed, and stability. It is derived from BSD, the version of UNIX® developed at the University of California, Berkeley. It is developed and maintained by a large community.&lt;/p&gt;
 
@@ -175,8 +178,8 @@ Open collaboration and Linux-based tools help developers and companies worldwide
 &lt;p&gt;Picas da galáxia&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/project/free-bsd</link>
-        <guid isPermaLink="true">http://artnux.com/project/free-bsd</guid>
+        <link>http://artnux.com/project/freebsd</link>
+        <guid isPermaLink="true">http://artnux.com/project/freebsd</guid>
         
         <category>back-end</category>
         
@@ -207,10 +210,9 @@ Open collaboration and Linux-based tools help developers and companies worldwide
       </item>
     
       <item>
-        <title>Project:  Cloud</title>
+        <title>Project: Cloud</title>
         <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
-&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
-Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
+&lt;p&gt;Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.&lt;/p&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
 &lt;p&gt;Picas da galáxia&lt;/p&gt;
@@ -219,11 +221,7 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
         <link>http://artnux.com/project/cloud</link>
         <guid isPermaLink="true">http://artnux.com/project/cloud</guid>
         
-        <category>front-end</category>
-        
         <category>back-end</category>
-        
-        <category>desenvolvimento web</category>
         
         
         <category>project</category>
@@ -231,10 +229,9 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
       </item>
     
       <item>
-        <title>Project:  SEGURANÇA</title>
-        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
-&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
-Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.&lt;/p&gt;
+        <title>Project: SEGURANÇA</title>
+        <description>&lt;h2 id=&quot;segurana&quot;&gt;Segurança&lt;/h2&gt;
+&lt;p&gt;Não sei o que escrever&lt;/p&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
 &lt;p&gt;Picas da galáxia&lt;/p&gt;

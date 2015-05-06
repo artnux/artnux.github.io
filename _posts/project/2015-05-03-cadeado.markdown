@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  " SEGURANÇA"
+title:  "SEGURANÇA"
 date:   2015-05-02 00:00:00
 developer: Marcelo Andrade
 categories:
@@ -9,18 +9,17 @@ tags:
 - front-end
 - back-end
 - desenvolvimento web
-img: portfolio_02.jpg
-thumb: thumb02.jpg
+thumb: project_security.jpg
+img: security.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- 01.jpg
+- 02.jpg
+- 03.jpg
 client: Corp.
-website: http://opencart.com.br
+website: http://www.com.br
 ---
-####OPENCART
-OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
-Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
+##Segurança
+Não sei o que escrever
 
 ####Nosso Propósito
 Picas da galáxia

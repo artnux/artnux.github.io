@@ -20,7 +20,7 @@ layout: default
             <h4>Detalhes de Projeto</h4>
             <div class="hline"></div>
             <p><b>Data:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Consultor:</b> <a href="{{ "/about/" | prepend: site.baseurl }}">{{ page.developer }}</a></p>
+            <p><b>Especialista:</b> <a href="{{ "/about/" | prepend: site.baseurl }}">{{ page.developer }}</a></p>
             <p><b>Categoria:</b> {{ page.categories }}</p>
             <p><b>Tags (é foda pra fazer funcionar, mas não impossível):</b> 
             {% for tag in page.tags %}
