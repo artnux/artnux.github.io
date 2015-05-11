@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 May 2015 15:47:02 +0900</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 15:47:02 +0900</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 18:27:14 +0900</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 18:27:14 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -40,9 +40,6 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
         <description>&lt;h2 id=&quot;open-bsd&quot;&gt;Open BSD&lt;/h2&gt;
 &lt;p&gt;The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.&lt;/p&gt;
 
-&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Picas da galáxia&lt;/p&gt;
-
 &lt;h4 id=&quot;why-might-i-want-to-use-openbsd&quot;&gt;Why might I want to use OpenBSD?&lt;/h4&gt;
 &lt;p&gt;New users frequently want to know whether OpenBSD is superior to some other free UNIX-like operating system. That question is largely unanswerable and is the subject of countless (and useless) religious debates. Do not, under any circumstances, ask such a question on an OpenBSD mailing list.&lt;/p&gt;
 
@@ -58,6 +55,8 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
 &lt;/ul&gt;
 
 &lt;p&gt;However, whether OpenBSD is right for you is a question that only you can answer.&lt;/p&gt;
+
+&lt;h4 id=&quot;nosso-propsitousamos-o-sistema-operacional-mais-seguro-do-mundo-da-melhor-para-voc-cliente&quot;&gt;Nosso PropósitoUsamos o sistema operacional mais seguro do mundo da melhor para você cliente.&lt;/h4&gt;
 </description>
         <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
         <link>http://artnux.com/project/openbsd</link>
@@ -177,6 +176,17 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
       <item>
         <title>Project: Linux</title>
         <description>&lt;h2 id=&quot;linux&quot;&gt;Linux&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Firewall Iptables, NFtables,&lt;/li&gt;
+  &lt;li&gt;Kernel Hardening Pax/Grsec&lt;/li&gt;
+  &lt;li&gt;Administração LVM&lt;/li&gt;
+  &lt;li&gt;Serviços LDAP, DNS, Samba, NFS, FTP, SMTP, PROXY&lt;/li&gt;
+  &lt;li&gt;Virtualização KVM, Xen e QEMU&lt;/li&gt;
+  &lt;li&gt;Web Server Apache, Nginx&lt;/li&gt;
+  &lt;li&gt;Sistema de Cache Web&lt;/li&gt;
+  &lt;li&gt;Monitoramento Nagios, Zabbix, Nessus&lt;/li&gt;
+  &lt;li&gt;HaProxy, Blud , Ldirectord, Heartbeat&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;helps-us-solve-harder-problems&quot;&gt;Helps us solve harder problems…&lt;/h4&gt;
 &lt;p&gt;Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.&lt;/p&gt;
@@ -202,6 +212,19 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
 
 &lt;h4 id=&quot;powerful-internet-solutions&quot;&gt;Powerful Internet solutions&lt;/h4&gt;
 &lt;p&gt;FreeBSD makes an ideal Internet or Intranet server. It provides robust network services under the heaviest loads and uses memory efficiently to maintain good response times for thousands of simultaneous user processes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kernel Tunning&lt;/li&gt;
+  &lt;li&gt;NFS (Network File System)&lt;/li&gt;
+  &lt;li&gt;Servidor Proxy&lt;/li&gt;
+  &lt;li&gt;Servidor Web (Apache / NginX)&lt;/li&gt;
+  &lt;li&gt;MailServer WebMail POP/SMTP&lt;/li&gt;
+  &lt;li&gt;Configurações de roteamento e firewall&lt;/li&gt;
+  &lt;li&gt;Serviços de autentição(LDAP)&lt;/li&gt;
+  &lt;li&gt;Servidor de Arquivos FreeNAS&lt;/li&gt;
+  &lt;li&gt;Jail Virtual Server&lt;/li&gt;
+  &lt;li&gt;Storage ZFS&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
 &lt;p&gt;Implementamos a melhor solução para sua empresa.&lt;/p&gt;
@@ -240,11 +263,25 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
     
       <item>
         <title>Project: Cloud</title>
-        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
-&lt;p&gt;Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.&lt;/p&gt;
+        <description>&lt;h4 id=&quot;cloud-computing&quot;&gt;Cloud Computing&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Openstack&lt;/li&gt;
+  &lt;li&gt;Docker&lt;/li&gt;
+  &lt;li&gt;Jails&lt;/li&gt;
+  &lt;li&gt;LXC&lt;/li&gt;
+  &lt;li&gt;Bhyve&lt;/li&gt;
+  &lt;li&gt;Juju&lt;/li&gt;
+  &lt;li&gt;Project Deployment&lt;/li&gt;
+  &lt;li&gt;Ansible&lt;/li&gt;
+  &lt;li&gt;Puppet&lt;/li&gt;
+  &lt;li&gt;Cfengine&lt;/li&gt;
+  &lt;li&gt;Chef&lt;/li&gt;
+  &lt;li&gt;Vagrant&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Openstack&lt;/p&gt;
+&lt;p&gt;Orquestramos e implementamos sua aplicação/infra em nuvem.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
         <link>http://artnux.com/project/cloud</link>
@@ -260,10 +297,16 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
       <item>
         <title>Project: SEGURANÇA</title>
         <description>&lt;h2 id=&quot;segurana&quot;&gt;Segurança&lt;/h2&gt;
-&lt;p&gt;Sec&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;TDI - Teste de Invasão&lt;/li&gt;
+  &lt;li&gt;Soluções para Segurança da Informação&lt;/li&gt;
+  &lt;li&gt;Segurança de Aplicações Web&lt;/li&gt;
+  &lt;li&gt;Hardening&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Security&lt;/p&gt;
+&lt;p&gt;Segurança é o nosso foco e você deseja o mesmo?
+Consulte-nos!&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
         <link>http://artnux.com/project/cadeado</link>

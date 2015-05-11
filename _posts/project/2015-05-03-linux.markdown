@@ -14,11 +14,20 @@ carousel:
 - linux02.jpg
 client: Corp.
 website: 
-- http://debian.org
-- http://ubuntu.org
-- http://www.redhat.com/en
+- http://www.debian.org
+- http://www.ubuntu.org
+- http://www.redhat.com
 ---
 ##Linux
+- Firewall Iptables, NFtables, 
+- Kernel Hardening Pax/Grsec
+- Administração LVM
+- Serviços LDAP, DNS, Samba, NFS, FTP, SMTP, PROXY
+- Virtualização KVM, Xen e QEMU
+- Web Server Apache, Nginx
+- Sistema de Cache Web
+- Monitoramento Nagios, Zabbix, Nessus 
+- HaProxy, Blud , Ldirectord, Heartbeat
 
 ####Helps us solve harder problems...
 Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.

@@ -14,11 +14,22 @@ carousel:
 - single02.jpg
 - single03.jpg
 client: Corp.
-website: https://en.wikipedia.org/wiki/OpenStack
+website: http://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
 ---
-####OPENCART
-Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
+####Cloud Computing
 
+- Openstack
+- Docker 
+- Jails
+- LXC 
+- Bhyve
+- Juju 
+- Project Deployment
+- Ansible
+- Puppet
+- Cfengine 
+- Chef
+- Vagrant
 
 ####Nosso Propósito
-Openstack
+Orquestramos e implementamos sua aplicação/infra em nuvem.
