@@ -14,7 +14,7 @@ thumb: project_opencart.jpg
 img: opencart01.jpg
 carousel:
 - Magento.imagem.jpeg 
-- operncart.jpg
+- opencart.jpg
 client: Corp.
 website:  
 - http://www.opencart.com
