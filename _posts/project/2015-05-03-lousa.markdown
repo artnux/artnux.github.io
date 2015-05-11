@@ -10,7 +10,7 @@ tags:
 - back-end
 - desenvolvimento web
 img: portfolio_07.jpg
-thumb: thumb02.jpg
+thumb: portfolio_07.jpg
 carousel:
 - single01.jpg
 - single02.jpg
