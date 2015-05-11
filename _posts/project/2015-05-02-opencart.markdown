@@ -17,13 +17,35 @@ carousel:
 - operncart02.jpg
 - operncart03.jpg
 client: Corp.
-website: http://opencart.com.br
+website: http://www.opencart.com
 relacionado:
 - devops
 ---
 ####OPENCART
 OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
 Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
+Juntamento com a Opencart nossa ferramenta disponibiliza:
+
+- Especificações PCI Compliant
+- Multi Línguas
+- Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins e etc)
+- Api integrada com Google, Mercado Livre entre outros.
+- Responsivo Mobile, Tablet, Desktop
+- Limite de Itens
+- Controle de Page Views
+- Controle total sobre Relatórios
+- Controle Estoque Local
+- Chat
+- Histórico do cliente
+- Gerenciamento de Pedidos
+- Cliente Workflow
+- Carrinho Abandonado
+- Cálculo de Frete
+- Mapas
+- Venda Casada
+- Cupom de desconto
+- Review de Produtos
 
 ####Nosso Propósito
-Ecommerce
+Deseja uma loja virtual ou você quem pensa em uma plataforma a nivel Black Friday.
+Consulte-nos!
