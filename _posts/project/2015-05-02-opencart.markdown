@@ -28,7 +28,7 @@ Juntamento com a Opencart nossa ferramenta disponibiliza:
 
 - Especificações PCI Compliant
 - Multi Línguas
-- Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins e etc)
+- Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins)
 - Api integrada com Google, Mercado Livre entre outros.
 - Responsivo Mobile, Tablet, Desktop
 - Limite de Itens
