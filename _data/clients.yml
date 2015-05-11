@@ -1,5 +1,7 @@
 # Clients information. Shown on Home and About pages.
   - name: Vimeo
+    img: client01.png
+  - name: Vimeo
     img: client03.png
   - name: Vimeo
     img: client04.png   
