@@ -17,8 +17,8 @@ carousel:
 - operncart02.jpg
 - operncart03.jpg
 client: Corp.
-website: - http://www.opencart.com
-	 - http://www.magento.com
+website:  http://www.opencart.com
+	  http://www.magento.com
 relacionado:
 - devops
 ---
