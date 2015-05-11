@@ -15,7 +15,6 @@ img: opencart01.jpg
 carousel:
 - Magento.imagem.jpeg 
 - operncart.jpg
-- operncart03.jpg
 client: Corp.
 website:  
 - http://www.opencart.com
