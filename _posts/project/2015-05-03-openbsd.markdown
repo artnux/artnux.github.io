@@ -31,4 +31,5 @@ Below are some reasons why we think OpenBSD is a useful operating system:
 
 However, whether OpenBSD is right for you is a question that only you can answer.
 
-####Nosso PropósitoUsamos o sistema operacional mais seguro do mundo da melhor para você cliente.
+##Nosso Propósito
+Usamos o sistema operacional mais seguro do mundo para melhor atender você cliente.
