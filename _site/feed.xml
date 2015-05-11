@@ -5,60 +5,9 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 May 2015 21:05:14 +0900</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 21:05:14 +0900</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 21:10:26 +0900</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 21:10:26 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Project: ECOMMERCE</title>
-        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
-&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
-Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
-Juntamento com a Opencart nossa ferramenta disponibiliza:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Especificações PCI Compliant&lt;/li&gt;
-  &lt;li&gt;Multi Línguas&lt;/li&gt;
-  &lt;li&gt;Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins)&lt;/li&gt;
-  &lt;li&gt;Api integrada com Google, Mercado Livre entre outros.&lt;/li&gt;
-  &lt;li&gt;Responsivo Mobile, Tablet, Desktop&lt;/li&gt;
-  &lt;li&gt;Limite de Itens&lt;/li&gt;
-  &lt;li&gt;Controle de Page Views&lt;/li&gt;
-  &lt;li&gt;Controle total sobre Relatórios&lt;/li&gt;
-  &lt;li&gt;Controle Estoque Local&lt;/li&gt;
-  &lt;li&gt;Chat&lt;/li&gt;
-  &lt;li&gt;Histórico do cliente&lt;/li&gt;
-  &lt;li&gt;Gerenciamento de Pedidos&lt;/li&gt;
-  &lt;li&gt;Cliente Workflow&lt;/li&gt;
-  &lt;li&gt;Carrinho Abandonado&lt;/li&gt;
-  &lt;li&gt;Cálculo de Frete&lt;/li&gt;
-  &lt;li&gt;Mapas&lt;/li&gt;
-  &lt;li&gt;Venda Casada&lt;/li&gt;
-  &lt;li&gt;Cupom de desconto&lt;/li&gt;
-  &lt;li&gt;Review de Produtos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Deseja uma loja virtual ou você que pensa em uma plataforma a nível Black Friday.&lt;/p&gt;
-
-&lt;h4 id=&quot;consulte-nos&quot;&gt;Consulte-nos!&lt;/h4&gt;
-</description>
-        <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
-        <link>http://artnux.com/project/devops/opencart</link>
-        <guid isPermaLink="true">http://artnux.com/project/devops/opencart</guid>
-        
-        <category>front-end</category>
-        
-        <category>back-end</category>
-        
-        <category>desenvolvimento web</category>
-        
-        
-        <category>project</category>
-        
-        <category>devops</category>
-        
-      </item>
     
       <item>
         <title>Project: OpenBSD</title>
@@ -348,6 +297,47 @@ Juntamento com a Opencart nossa ferramenta disponibiliza:&lt;/p&gt;
         
         
         <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>: Opencart</title>
+        <description>&lt;h4 id=&quot;opencart&quot;&gt;OPENCART&lt;/h4&gt;
+&lt;p&gt;OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
+Juntamento com a Opencart nossa ferramenta disponibiliza:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Especificações PCI Compliant&lt;/li&gt;
+  &lt;li&gt;Multi Línguas&lt;/li&gt;
+  &lt;li&gt;Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins)&lt;/li&gt;
+  &lt;li&gt;Api integrada com Google, Mercado Livre entre outros.&lt;/li&gt;
+  &lt;li&gt;Responsivo Mobile, Tablet, Desktop&lt;/li&gt;
+  &lt;li&gt;Limite de Itens&lt;/li&gt;
+  &lt;li&gt;Controle de Page Views&lt;/li&gt;
+  &lt;li&gt;Controle total sobre Relatórios&lt;/li&gt;
+  &lt;li&gt;Controle Estoque Local&lt;/li&gt;
+  &lt;li&gt;Chat&lt;/li&gt;
+  &lt;li&gt;Histórico do cliente&lt;/li&gt;
+  &lt;li&gt;Gerenciamento de Pedidos&lt;/li&gt;
+  &lt;li&gt;Cliente Workflow&lt;/li&gt;
+  &lt;li&gt;Carrinho Abandonado&lt;/li&gt;
+  &lt;li&gt;Cálculo de Frete&lt;/li&gt;
+  &lt;li&gt;Mapas&lt;/li&gt;
+  &lt;li&gt;Venda Casada&lt;/li&gt;
+  &lt;li&gt;Cupom de desconto&lt;/li&gt;
+  &lt;li&gt;Review de Produtos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Deseja uma loja virtual ou você que pensa em uma plataforma a nível Black Friday.&lt;/p&gt;
+
+&lt;h4 id=&quot;consulte-nos&quot;&gt;Consulte-nos!&lt;/h4&gt;
+</description>
+        <pubDate>Sat, 02 May 2015 00:00:00 +0900</pubDate>
+        <link>http://artnux.com/opencart</link>
+        <guid isPermaLink="true">http://artnux.com/opencart</guid>
+        
         
       </item>
     
