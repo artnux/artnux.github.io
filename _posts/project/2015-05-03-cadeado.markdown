@@ -9,7 +9,7 @@ tags:
 - front-end
 - back-end
 - desenvolvimento web
-thumb: project_security.jpg
+thumb: security.jpg
 img: security.jpg
 carousel:
 - 01.jpg
