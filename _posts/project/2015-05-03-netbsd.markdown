@@ -27,4 +27,5 @@ The NetBSD(tm) Foundation is a tax exempt, not-for-profit 501(c)(3) corporation,
 
 
 ####Nosso Propósito
-Quer desenvolver sua plataforma embedded. Consulte-nos!
+Quer desenvolver sua plataforma embedded. 
+####Consulte-nos!
