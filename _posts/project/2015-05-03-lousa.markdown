@@ -20,14 +20,24 @@ website: http://artnux.com
 ---
 ####Desenvolvimento em linguagens 
 AJAX
+
 CMS Wordpress Jekyll
+
 CSS/SaSS
+
 HTML 5
+
 Javascript/AngularJS/React/Firebase/AngularJS/Node.js/JQuery
+
 PHP/SQL
+
 Objective-C/PhoneGap
+
 Ruby/Rails 
+
 Rethink/Redis
+
 Velocity MCP(Microsoft Certified)
+
 ####Nosso Propósito
 Aplicações Web e Mobile
