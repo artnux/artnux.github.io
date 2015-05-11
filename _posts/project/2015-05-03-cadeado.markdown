@@ -2,7 +2,7 @@
 layout: project
 title:  "SEGURANÇA"
 date:   2015-05-02 00:00:00
-developer: Marcelo Andrade
+developer: Gabriel Murilo Lanzi
 categories:
 - project
 tags:
@@ -16,10 +16,10 @@ carousel:
 - 02.jpg
 - 03.jpg
 client: Corp.
-website: http://www.com.br
+website: http://artnux.com
 ---
 ##Segurança
-Não sei o que escrever
+Sec
 
 ####Nosso Propósito
 Security

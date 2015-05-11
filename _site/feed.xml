@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 May 2015 15:35:35 +0900</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 15:35:35 +0900</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 15:47:02 +0900</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 15:47:02 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -204,7 +204,7 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
 &lt;p&gt;FreeBSD makes an ideal Internet or Intranet server. It provides robust network services under the heaviest loads and uses memory efficiently to maintain good response times for thousands of simultaneous user processes.&lt;/p&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Picas da galáxia&lt;/p&gt;
+&lt;p&gt;Implementamos a melhor solução para sua empresa.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
         <link>http://artnux.com/project/freebsd</link>
@@ -223,7 +223,7 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
 &lt;p&gt;Um cluster, ou agregado de computadores, é formado por um conjunto de computadores, que utiliza um tipo especial de sistema operacional classificado como sistema distribuído. Muitas vezes é construído a partir de computadores convencionais (personal computers), os quais são ligados em rede e comunicam-se através do sistema, trabalhando como se fossem uma única máquina de grande porte. Há diversos tipos de cluster. Um tipo famoso é o cluster da classe Beowulf, constituído por diversos nós escravos gerenciados por um só computador.&lt;/p&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Picas da galáxia&lt;/p&gt;
+&lt;p&gt;Gerenciamento de Cluster e implatanção.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
         <link>http://artnux.com/project/cluster</link>
@@ -244,7 +244,7 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
 &lt;p&gt;Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.&lt;/p&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Picas da galáxia&lt;/p&gt;
+&lt;p&gt;Openstack&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
         <link>http://artnux.com/project/cloud</link>
@@ -260,7 +260,7 @@ Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, 
       <item>
         <title>Project: SEGURANÇA</title>
         <description>&lt;h2 id=&quot;segurana&quot;&gt;Segurança&lt;/h2&gt;
-&lt;p&gt;Não sei o que escrever&lt;/p&gt;
+&lt;p&gt;Sec&lt;/p&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
 &lt;p&gt;Security&lt;/p&gt;

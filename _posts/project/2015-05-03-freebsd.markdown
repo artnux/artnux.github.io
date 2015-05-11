@@ -10,7 +10,7 @@ tags:
 thumb: project_freebsd.jpg
 img: freebsd01.png
 carousel:
-- freebsd01.png
+- freebsd04.png
 - freebsd02.jpg
 - freebsd03.jpg
 - freebsd04.png
@@ -24,4 +24,4 @@ FreeBSD is an operating system for a variety of platforms which focuses on featu
 FreeBSD makes an ideal Internet or Intranet server. It provides robust network services under the heaviest loads and uses memory efficiently to maintain good response times for thousands of simultaneous user processes.
 
 ####Nosso Propósito
-Picas da galáxia
+Implementamos a melhor solução para sua empresa. 

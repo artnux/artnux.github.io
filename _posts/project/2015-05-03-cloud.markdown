@@ -21,4 +21,4 @@ Open collaboration and Linux-based tools help developers and companies worldwide
 
 
 ####Nosso Propósito
-Picas da galáxia
+Openstack
