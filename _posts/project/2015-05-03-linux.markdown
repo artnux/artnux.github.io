@@ -24,4 +24,4 @@ website:
 Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
 
 ####Nosso Propósito
-Picas da galáxia
+Consultoria Linux em sua infra estrutura e aplicações Web.
