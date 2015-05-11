@@ -13,8 +13,8 @@ tags:
 thumb: project_opencart.jpg
 img: opencart01.jpg
 carousel:
-- operncart01.jpg
-- operncart02.jpg
+- Magento.imagem.jpeg 
+- operncart.jpg
 - operncart03.jpg
 client: Corp.
 website:  
