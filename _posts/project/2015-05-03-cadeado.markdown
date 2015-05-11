@@ -9,8 +9,8 @@ tags:
 - front-end
 - back-end
 - desenvolvimento web
-thumb: potfolio_02.jpg
-img: potfolio_02.jpg
+thumb: portfolio_02.jpg
+img: portfolio_02.jpg
 carousel:
 - 01.jpg
 - 02.jpg
