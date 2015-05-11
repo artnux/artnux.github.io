@@ -16,11 +16,10 @@ carousel:
 - single02.jpg
 - single03.jpg
 client: Corp.
-website: http://opencart.com.br
+website: http://opensource.org
 ---
-####OPENCART
-OpenCart é uma plataforma Inovadora, rápida, responsiva  e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
-Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
+####OpenSource
+OpenSource não é somente uma metologia de licensa e sim também uma cultura.
 
 ####Nosso Propósito
-Ecommerce
+Desenvolvemos e applicamos tecnologias OpenSource
