@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 May 2015 22:25:42 +0900</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 22:25:42 +0900</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 22:35:51 +0900</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 22:35:51 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -183,8 +183,9 @@ Juntamento com a Opencart nossa ferramenta disponibiliza:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
-&lt;p&gt;Aplicações Web e Mobile.
-####Consulte-nos&lt;/p&gt;
+&lt;p&gt;Aplicações Web e Mobile.&lt;/p&gt;
+
+&lt;h4 id=&quot;consulte-nos&quot;&gt;Consulte-nos&lt;/h4&gt;
 </description>
         <pubDate>Sat, 02 May 2015 09:00:00 +0900</pubDate>
         <link>http://artnux.com/project/lousa</link>
