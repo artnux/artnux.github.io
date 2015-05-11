@@ -22,4 +22,4 @@ website: http://opensource.org
 OpenSource não é somente uma metologia de licensa e sim também uma cultura.
 
 ####Nosso Propósito
-Desenvolvemos e applicamos tecnologias OpenSource
+Desenvolvemos e aplicamos tecnologias OpenSource
