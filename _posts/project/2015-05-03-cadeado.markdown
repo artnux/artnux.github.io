@@ -9,8 +9,8 @@ tags:
 - front-end
 - back-end
 - desenvolvimento web
-thumb: security.jpg
-img: security.jpg
+thumb: potfolio_02.jpg
+img: potfolio_02.jpg
 carousel:
 - 01.jpg
 - 02.jpg
@@ -22,4 +22,4 @@ website: http://www.com.br
 Não sei o que escrever
 
 ####Nosso Propósito
-Picas da galáxia
+Security
