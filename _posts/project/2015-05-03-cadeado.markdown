@@ -12,7 +12,7 @@ tags:
 thumb: portfolio_02.jpg
 img: portfolio_02.jpg
 carousel:
-- portfolio_02.jpg
+- thumb04.jpg
 client: Corp.
 website: http://artnux.com
 ---
