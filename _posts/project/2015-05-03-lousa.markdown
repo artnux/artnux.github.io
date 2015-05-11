@@ -19,25 +19,25 @@ client: Corp.
 website: http://artnux.com
 ---
 ####Desenvolvimento em linguagens 
-AJAX
+- AJAX
 
-CMS Wordpress Jekyll
+- CMS Wordpress Jekyll
 
-CSS/SaSS
+- CSS/SaSS
 
-HTML 5
+- HTML 5
 
-Javascript/AngularJS/React/Firebase/AngularJS/Node.js/JQuery
+- Javascript/AngularJS/React/Firebase/AngularJS/Node.js/JQuery
 
-PHP/SQL
+- PHP/SQL
 
-Objective-C/PhoneGap
+- Objective-C/PhoneGap
 
-Ruby/Rails 
+- Ruby/Rails 
 
-Rethink/Redis
+- Rethink/Redis
 
-Velocity MCP(Microsoft Certified)
+- Velocity MCP(Microsoft Certified)
 
 ####Nosso Propósito
 Aplicações Web e Mobile
