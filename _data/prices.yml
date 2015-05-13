@@ -1,0 +1,25 @@
+# Price / Plans list
+
+  - name: Basicao
+    position: 1
+    text: /\ 
+    img: team01.jpg
+    itens:
+      - title: Tema Personalizado #use for email address
+      - title: Integração com ferramentas de pesquisa
+#  - name: Nome 4
+#    position: Marketing
+#    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#    img: team04.jpg
+#    itens:
+#      - title: envelope #use for email address
+#      - title: twitter
+    
+
+
+#    Por que usar sedex?
+
+#- Entrega no endereço do destinatário em todos os municípios brasileiros;
+#- Rastreamento do objeto: estarão disponíveis no site dos Correios informações sobre a situação de entrega do objeto, ou, na sua impossibilidade, os motivos respectivos da não entrega;
+#- Realização de até três tentativas de entrega;
+#- Possibilidade de coleta domiciliar (somente Pessoas Jurídicas com contrato).
