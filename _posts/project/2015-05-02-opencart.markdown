@@ -5,11 +5,9 @@ date:   2015-05-02 00:00:00
 developer: Marcelo Andrade
 categories:
 - project
-- devops
 tags:
 - front-end
-- back-end
-- desenvolvimento web
+- item novo
 thumb: project_opencart.jpg
 img: opencart01.jpg
 carousel:

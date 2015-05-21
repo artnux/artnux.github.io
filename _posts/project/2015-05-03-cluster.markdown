@@ -8,6 +8,7 @@ categories:
 tags:
 - back-end
 - server
+- item novo
 thumb: project_cluster.jpg
 img: cluster01.jpg
 carousel:
