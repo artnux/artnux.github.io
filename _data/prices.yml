@@ -7,6 +7,7 @@
     value: 'R$ 20,00'
     items:
       - title: Site Institucional
+      - title: Blog
       - title: Word Press
       - title: S.E.O.
       - title: Direito Autoral Próprio
@@ -17,6 +18,7 @@
     value: 'R$ 500,00'
     items:
       - title: Ecommerce
+      - title: Blog
       - title: Open Cart
       - title: S.E.O.
       - title: Direito Autoral Próprio
