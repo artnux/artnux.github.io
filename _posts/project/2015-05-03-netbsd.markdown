@@ -4,9 +4,10 @@ title:  "NetBSD"
 date:   2015-05-02 00:00:00
 developer: Abner 
 categories:
-- project
+- projetos
 tags:
 - back-end
+- servidor
 thumb: project_netbsd.jpg
 img: netbsd01.png
 carousel:

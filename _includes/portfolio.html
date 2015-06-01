@@ -1,22 +1,8 @@
 <div id="portfoliowrap">
     <div class="portfolio-centered">
-        {% if include.title %}<h3>{{ include.tagall | upcase }}</h3>{% endif %}
+        {% if include.title %}<h3>{{ include.title | upcase }}</h3>{% endif %}
         <div class="recentitems portfolio">
-        {% for iio in include.tagall.split(";") %}
-            <p>- {{ iio }} -</p>
-        {% endfor %}
-            {% for project in site.categories['project'] limit:include.limit %}
-                {% if include.tagall %}
-                    {% assign freestyle = false %}
-                    {% for t in project.tags %}
-                        {% if t == include.tagall %}
-                            {% assign freestyle = true %}
-                        {% endif %}
-                    {% endfor %}
-                {% else %}
-                    {% assign freestyle = true %}
-                {% endif %}
-                {% if freestyle %}
+            {% for project in site.categories['projetos'] %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.thumb }}" alt="">
@@ -29,7 +15,6 @@
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
                 </div><!-- end col-12 -->
-                {% endif %}
             {% endfor %}
         </div><!-- portfolio -->
     </div><!-- portfolio container -->

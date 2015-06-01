@@ -38,13 +38,16 @@ layout: default
             </p>
         </div>
     </div><! --/row -->
+    {% if page.include == "prices" %}
+        {% include prices.html title="Nossos Planos" %}
+    {% endif %}
 </div><! --/container -->
 
 <div id="portfoliowrap">
     <div class="portfolio-centered">
         <h3>{{ "Projetos Relacionados" | upcase }}</h3>
         <div class="recentitems portfolio">
-            {% for project in site.categories['project'] limit:10 %}
+            {% for project in site.categories['projetos'] limit:10 %}
                 {% assign freestyle = false %}
                 {% for t in project.tags %}
                     {% for tag in page.tags %}

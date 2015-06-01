@@ -4,9 +4,10 @@ title:  "OpenBSD"
 date:   2015-05-02 00:00:00
 developer: Abner 
 categories:
-- project
+- projetos
 tags:
 - back-end
+- servidor
 thumb: project_openbsd.jpg
 img: openbsd01.jpg
 carousel:

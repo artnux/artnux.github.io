@@ -4,7 +4,7 @@ title:  " Open Source"
 date:   2015-05-02 00:00:00
 developer: Marcelo Andrade
 categories:
-- project
+- projetos
 tags:
 - front-end
 - back-end

@@ -4,9 +4,10 @@ title:  "Linux"
 date:   2015-05-02 00:00:00
 developer: Abner e Gabriel
 categories:
-- project
+- projetos
 tags:
 - back-end
+- servidor
 thumb: project_linux.jpg
 img: linux01.jpg
 carousel:

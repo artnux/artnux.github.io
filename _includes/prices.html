@@ -1,6 +1,7 @@
 <div id="prices">
     <div class="container">
         <div class="row centered">
+        {% if include.title %}<h3>{{ include.title | upcase }}</h3>{% endif %}
         {% for prices in site.data.prices %}
             <div class="col-md-4">
                 <div class="panel panel-danger">
