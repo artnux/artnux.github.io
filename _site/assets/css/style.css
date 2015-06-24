@@ -118,11 +118,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #DC143C;
+	color: darkred;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #DC143C;
+	color: darkred;
 	background-color: transparent;
 }
 
@@ -153,8 +153,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #DC143C;
-  border-color: #DC143C;
+  background-color: darkred;
+  border-color: darkred;
 }
 
 .dmbutton:hover,
@@ -216,7 +216,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #DC143C;
+	background-color: darkred;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -244,7 +244,7 @@ a:focus {
 }
 
 #service i {
-	color: #DC143C;
+	color: darkred;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -292,15 +292,15 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#DC143C;
-	background-color:rgba(18,52,86,.9);
+	background-color:darkred;
+	background-color:rgba(darkred,.9);
 	text-align:center;
 }
 
 /* Testimonials Wrap */
 #twrapback {
-    background-color: #DC143C;
-    background-color:rgba(18,52,86,.8);
+    background-color: darkred;
+    background-color:rgba(darkred,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -376,7 +376,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: #DC143C
+	color: darkred
 }
 
 /*	################################################################
@@ -385,7 +385,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #DC143C;
+	background: darkred;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -420,7 +420,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #DC143C;
+	color: darkred;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -436,7 +436,7 @@ csmall {
 }
 
 .badge-theme {
-	background: #DC143C;
+	background: darkred;
 }
 
 /* Contact Page */
@@ -504,4 +504,9 @@ a.anchor{
     position: relative; 
     top: -80px; 
     visibility: hidden;
+}
+
+
+#service .col-md-4 {
+	height: 500px;
 }
