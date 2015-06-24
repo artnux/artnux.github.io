@@ -9,8 +9,16 @@ url: "http://artnux.com"
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: pretty
+# permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+gems: ['jekyll-multiple-languages']
+
+languages: ['pt', 'en']
+language_default: 'pt'
+
+fill_default_content: true
 
 colors:  #in hex code if not noted else
   primary: "darkred"#"#DC143C" #"#0e5978" #"#F70031" 
