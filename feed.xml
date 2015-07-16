@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>artNUXtche</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>artnux</title>
+    <description></description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 09 Jul 2015 22:53:57 -0300</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2015 22:53:57 -0300</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2015 20:21:27 -0300</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2015 20:21:27 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -119,6 +119,62 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
         <category>performance</category>
         
         <category>front-end</category>
+        
+        
+        <category>projetos</category>
+        
+      </item>
+    
+      <item>
+        <title>Projetos: SEGURANÇA</title>
+        <description>&lt;h2 id=&quot;segurana&quot;&gt;Segurança&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;TDI - Teste de Invasão&lt;/li&gt;
+  &lt;li&gt;Soluções para Segurança da Informação&lt;/li&gt;
+  &lt;li&gt;Segurança de Aplicações Web&lt;/li&gt;
+  &lt;li&gt;Hardening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Segurança é o nosso foco e você deseja o mesmo?&lt;/p&gt;
+
+&lt;h4 id=&quot;consulte-nos&quot;&gt;Consulte-nos!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/en/projetos/seguranca</link>
+        <guid isPermaLink="true">http://artnux.com/en/projetos/seguranca</guid>
+        
+        <category>back-end</category>
+        
+        <category>segurança</category>
+        
+        
+        <category>projetos</category>
+        
+      </item>
+    
+      <item>
+        <title>Projetos: SEGURANÇA</title>
+        <description>&lt;h2 id=&quot;segurana&quot;&gt;Segurança&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;TDI - Teste de Invasão&lt;/li&gt;
+  &lt;li&gt;Soluções para Segurança da Informação&lt;/li&gt;
+  &lt;li&gt;Segurança de Aplicações Web&lt;/li&gt;
+  &lt;li&gt;Hardening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Segurança é o nosso foco e você deseja o mesmo?&lt;/p&gt;
+
+&lt;h4 id=&quot;consulte-nos&quot;&gt;Consulte-nos!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://artnux.com/projetos/seguranca</link>
+        <guid isPermaLink="true">http://artnux.com/projetos/seguranca</guid>
+        
+        <category>back-end</category>
+        
+        <category>segurança</category>
         
         
         <category>projetos</category>
@@ -263,8 +319,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 ####Consulte-nos!&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/netbsd</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/netbsd</guid>
+        <link>http://artnux.com/projetos/netbsd</link>
+        <guid isPermaLink="true">http://artnux.com/projetos/netbsd</guid>
         
         <category>back-end</category>
         
@@ -293,144 +349,10 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 ####Consulte-nos!&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/netbsd</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/netbsd</guid>
+        <link>http://artnux.com/en/projetos/netbsd</link>
+        <guid isPermaLink="true">http://artnux.com/en/projetos/netbsd</guid>
         
         <category>back-end</category>
-        
-        <category>servidor</category>
-        
-        
-        <category>projetos</category>
-        
-      </item>
-    
-      <item>
-        <title>Projetos:  Manutenção e Suporte mensal</title>
-        <description>&lt;h4 id=&quot;maintenance-support&quot;&gt;Maintenance Support&lt;/h4&gt;
-&lt;p&gt;These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.&lt;/p&gt;
-
-&lt;p&gt;Our maintenance support packages start from just $10 per month and can used to simply update and add content to a news blog, or for adding text and updated changes to your web site. We prefer to tailor make a support maintenance package for you to ensure we cover all areas of your requirements.&lt;/p&gt;
-
-&lt;p&gt;Whether you’re a small, home-based business or a large scale, corporate or government organisation, we can work with you and agree on a tailored made maintenance support package that’s just right for you.&lt;/p&gt;
-
-&lt;p&gt;Before selecting a plan, we suggest you take a look at your web site and forecast how often you will need to make changes and or add new pages on average per month and or need support and help.&lt;/p&gt;
-
-&lt;p&gt;DSO Budget Maintenance Plan – $15 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Giving you piece of mind that your website is being regularly updated, checked for problems, and small issues are covered; without a hitch and amortised over the year.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;2 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Business Maintenance Plan – $55 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;When pro-actively engaging with your customers is paramount for your business, this plan will ensure that you are communicating outwardly each and every month and ensuring your web site is updated and maintained with urgency.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;5 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Includes up to one new page with matching web site graphic design and programming per month.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Lite Maintenance Plan – $25 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Your business evolves and changes as the market changes and customer demands change. The Lite plan ensures that your website evolves with your business, and continues to present you in an up-to-date and professional manner.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;3 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/manutencao</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/manutencao</guid>
-        
-        <category>hardware</category>
-        
-        <category>software</category>
-        
-        <category>manutenção</category>
-        
-        <category>servidor</category>
-        
-        
-        <category>projetos</category>
-        
-      </item>
-    
-      <item>
-        <title>Projetos:  Manutenção e Suporte mensal</title>
-        <description>&lt;h4 id=&quot;maintenance-support&quot;&gt;Maintenance Support&lt;/h4&gt;
-&lt;p&gt;These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.&lt;/p&gt;
-
-&lt;p&gt;Our maintenance support packages start from just $10 per month and can used to simply update and add content to a news blog, or for adding text and updated changes to your web site. We prefer to tailor make a support maintenance package for you to ensure we cover all areas of your requirements.&lt;/p&gt;
-
-&lt;p&gt;Whether you’re a small, home-based business or a large scale, corporate or government organisation, we can work with you and agree on a tailored made maintenance support package that’s just right for you.&lt;/p&gt;
-
-&lt;p&gt;Before selecting a plan, we suggest you take a look at your web site and forecast how often you will need to make changes and or add new pages on average per month and or need support and help.&lt;/p&gt;
-
-&lt;p&gt;DSO Budget Maintenance Plan – $15 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Giving you piece of mind that your website is being regularly updated, checked for problems, and small issues are covered; without a hitch and amortised over the year.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;2 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Business Maintenance Plan – $55 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;When pro-actively engaging with your customers is paramount for your business, this plan will ensure that you are communicating outwardly each and every month and ensuring your web site is updated and maintained with urgency.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;5 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Includes up to one new page with matching web site graphic design and programming per month.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Lite Maintenance Plan – $25 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Your business evolves and changes as the market changes and customer demands change. The Lite plan ensures that your website evolves with your business, and continues to present you in an up-to-date and professional manner.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;3 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/manutencao</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/manutencao</guid>
-        
-        <category>hardware</category>
-        
-        <category>software</category>
-        
-        <category>manutenção</category>
         
         <category>servidor</category>
         
